@@ -1,11 +1,11 @@
-# guppy@1.0.0  [![translate-svg]][translate-list]
+# [guppy@0.0.1][commit]  [![translate-svg]][translate-list]
 
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
     
 「 React.js的友好应用程序管理器和任务运行器 」
 
-[github source commit](https://github.com/joshwcomeau/guppy/tree/73a9f68702d44fe03dad118bd1b112f1998ef454)
+[commit]: https://github.com/joshwcomeau/guppy/tree/73a9f68702d44fe03dad118bd1b112f1998ef454
 
 欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏
 

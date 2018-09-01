@@ -5,8 +5,6 @@
     
 「 React.js的友好应用程序管理器和任务运行器 」
 
-[commit]: https://github.com/joshwcomeau/guppy/tree/73a9f68702d44fe03dad118bd1b112f1998ef454
-[more]: https://github.com/chinanf-boy/chinese-translate-list
 
 ---
 
@@ -14,13 +12,17 @@
 
 <!-- doc-templite START generated -->
 <!-- time = '2018 7.16' -->
-
+<!-- repo = 'joshwcomeau/guppy' -->
+<!-- commit = '73a9f68702d44fe03dad118bd1b112f1998ef454' -->
 翻译的原文 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[commit] | ⏰ 2018 7.16 | ![last] | [中文翻译][more]
-<!-- doc-templite END generated -->
+[commit] | ⏰ 2018 7.16 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/joshwcomeau/guppy.svg
+[commit]: https://github.com/joshwcomeau/guppy/tree/73a9f68702d44fe03dad118bd1b112f1998ef454
+
+<!-- doc-templite END generated -->
+
 
 ### 贡献
 
